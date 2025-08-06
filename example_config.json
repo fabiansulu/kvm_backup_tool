@@ -1,0 +1,12 @@
+{
+    "backup_host": "backup.example.com",
+    "backup_user": "backup_user",
+    "backup_path": "/backup/kvm",
+    "auto_backup": true,
+    "backup_freq": "0 2 * * *",
+    "selected_vms": {
+        "vm1": true,
+        "vm2": false,
+        "vm3": true
+    }
+}
