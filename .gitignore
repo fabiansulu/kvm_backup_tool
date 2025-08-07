@@ -1,0 +1,4 @@
+/venv
+/.env
+/.pytest_cache
+auth_kvm_backup_original.py
